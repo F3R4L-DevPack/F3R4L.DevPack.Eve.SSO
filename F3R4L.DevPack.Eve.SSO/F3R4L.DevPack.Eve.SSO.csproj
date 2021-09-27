@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="F3R4L.DevPack.Api">
+      <HintPath>..\..\F3R4L.DevPack.Core\F3R4L.DevPack.SSO\bin\Debug\netstandard2.1\F3R4L.DevPack.Api.dll</HintPath>
+    </Reference>
+    <Reference Include="F3R4L.DevPack.SSO">
+      <HintPath>..\..\F3R4L.DevPack.Core\F3R4L.DevPack.SSO\bin\Debug\netstandard2.1\F3R4L.DevPack.SSO.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

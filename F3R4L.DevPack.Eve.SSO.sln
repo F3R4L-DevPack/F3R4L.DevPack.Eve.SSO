@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F3R4L.DevPack.Eve.SSO", "F3R4L.DevPack.Eve.SSO\F3R4L.DevPack.Eve.SSO.csproj", "{550BB565-896A-43CD-808A-9FB87BD1D4F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{550BB565-896A-43CD-808A-9FB87BD1D4F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{550BB565-896A-43CD-808A-9FB87BD1D4F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{550BB565-896A-43CD-808A-9FB87BD1D4F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{550BB565-896A-43CD-808A-9FB87BD1D4F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49067F15-3755-4044-A5E5-33BA68815952}
+	EndGlobalSection
+EndGlobal
